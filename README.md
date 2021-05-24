@@ -1,12 +1,13 @@
-# Hi there, I'm Utsav Verma 🙋‍♂️
+<h1>Hi there, I'm Utsav Verma 🙋‍♂️</h1>
 <img align='right' src="https://media.giphy.com/media/Y01wot3Bt9Bpdz8xvs/giphy.gif" width="230">
-## I'm a MERN Stack Developer!
+
+<h2>I'm a MERN Stack Developer!</h2>
 
 - 👨‍🎓I’m currently working on MERN,MEAN stack project.
 - 🥅 2021 Goals: Contribute more to Open Source projects , learn python
 <h4> 🤍 Coding and working on projects is my passion.<img align='right' src="https://media.giphy.com/media/8SRqnPebX1H8lQy5YR/giphy.gif" width="80"></h4>
 
-##My Learnings
+<h2>My Learnings</h2>
 ### Languages and Tools Used:
 <p>
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -51,7 +52,6 @@
 [instagram]:https://www.instagram.com/utsaverma2001/
 [linkedin]: https://www.linkedin.com/in/utsav-verma-57a065193/
 
-[![Linkedin: utsav](https://img.shields.io/badge/-manik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/utsav-verma-57a065193/)](https://www.linkedin.com/in/utsav-verma-57a065193/)
 ![GitHub followers](https://img.shields.io/github/followers/utsaverma2001-crypto?label=Follow&style=social)
 
 
