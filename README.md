@@ -8,7 +8,8 @@
 <h4> 🤍 Coding and working on projects is my passion.<img align='right' src="https://media.giphy.com/media/8SRqnPebX1H8lQy5YR/giphy.gif" width="80"></h4>
 
 <h2>My Learnings</h2>
-### Languages and Tools Used:
+
+<h3> Languages and Tools Used:</h3>
 <p>
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img align="left" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -23,7 +24,7 @@
 </p>
 <br /><br />
 
-### Libraries and Frameworks Used:
+<h3> Libraries and Frameworks Used: </h3>
 
 <img align="left" alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 <img align="left" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -36,12 +37,12 @@
 
 <br />
 
-### Databases I am familiar with:
+<h3> Databases I am familiar with:</h3>
 
 <img align="left" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <br />
 
-### Connect with me:
+<h3> Connect with me:</h3>
 
 [<img align="left" alt="utsaverma2001 | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="utsaverma2001 | Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
@@ -52,10 +53,8 @@
 [instagram]:https://www.instagram.com/utsaverma2001/
 [linkedin]: https://www.linkedin.com/in/utsav-verma-57a065193/
 
+
 ![GitHub followers](https://img.shields.io/github/followers/utsaverma2001-crypto?label=Follow&style=social)
-
-
-
 
 [![Utsav's github stats](https://github-readme-stats.vercel.app/api?username=utsaverma2001-crypto)](https://github.com/utsaverma2001-crypto)
 
